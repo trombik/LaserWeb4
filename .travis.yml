@@ -5,7 +5,7 @@ sudo: required
 dist: trusty
 before_install:
   - sudo apt-get install --no-install-recommends -y icnsutils graphicsmagick xz-utils
-  - npm install
+  - npm ci
   - npm run installdev
   - npm run bundle-dev
 addons:
