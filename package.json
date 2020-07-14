@@ -67,6 +67,7 @@
     "imports-loader": "^0.7.1",
     "jquery": "^3.4.1",
     "json-stringify-pretty-compact": "^1.0.2",
+    "json-stringify-safe": "^5.0.1",
     "keyboardjs": "^2.5.1",
     "lw.canvas-filters": "git+https://github.com/LaserWeb/lw.canvas-filters.git",
     "lw.canvas-grid": "git+https://github.com/LaserWeb/lw.canvas-grid.git",
